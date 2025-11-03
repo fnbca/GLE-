@@ -100,7 +100,7 @@ def create_all_collages(files, client_name):
 
 
 # Interface utilisateur Streamlit
-st.title("Formulaire de dépôt FIDEALIS pour ENR PRO HABITAT")
+st.title("Formulaire de dépôt FIDEALIS pour GLE")
 
 
 session_id = api_login()
